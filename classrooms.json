@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "63870b0d8c87fd2a9e875239"
+  },
+  "name": "11A3",
+  "max": "40",
+  "teacher": "Nguyễn Xuân Linh",
+  "current": 2,
+  "phone": "0345674567",
+  "id": "63870b0d8c87fd2a9e875239"
+},{
+  "_id": {
+    "$oid": "63870b958c87fd2a9e87523c"
+  },
+  "name": "11A1",
+  "max": "30",
+  "current": 0,
+  "teacher": "Huỳnh Xuân Khánh",
+  "phone": "0342456754",
+  "id": "63870b958c87fd2a9e87523c"
+},{
+  "_id": {
+    "$oid": "63870d7f947aaf019870d0a6"
+  },
+  "name": "11A2",
+  "max": "40",
+  "teacher": "Lê Văn Tài",
+  "current": 0,
+  "phone": "0965918866",
+  "id": "63870d7f947aaf019870d0a6"
+}]

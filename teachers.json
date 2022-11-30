@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "63870b018c87fd2a9e875238"
+  },
+  "name": "Lê Văn Tài",
+  "sex": "Nam",
+  "birthday": "2000-12-01",
+  "avatar": "teacher1.jpg",
+  "phone": "0965918866",
+  "address": "DH Cần Thơ",
+  "id": "63870b018c87fd2a9e875238"
+},{
+  "_id": {
+    "$oid": "63870d33947aaf019870d0a4"
+  },
+  "name": "Huỳnh Xuân Khánh",
+  "sex": "Nam",
+  "birthday": "2000-12-01",
+  "avatar": "teacher3.jpg",
+  "phone": "0342456754",
+  "address": "Bến Ninh Kiều",
+  "id": "63870d33947aaf019870d0a4"
+},{
+  "_id": {
+    "$oid": "63870d63947aaf019870d0a5"
+  },
+  "name": "Nguyễn Xuân Linh",
+  "sex": "Nữ",
+  "birthday": "2000-12-03",
+  "avatar": "teacher2.jpg",
+  "phone": "0345674567",
+  "address": "Gò Vấp",
+  "id": "63870d63947aaf019870d0a5"
+}]

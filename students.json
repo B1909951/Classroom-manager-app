@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6384f78a73298bd5f322dcf4"
+  },
+  "name": "Hà Chánh Nam",
+  "sex": "Nam",
+  "birthday": "2005-10-19",
+  "avatar": "student1.jpg",
+  "pphone": "0965918874",
+  "class_name": "11A3",
+  "id": "6384f78a73298bd5f322dcf4"
+},{
+  "_id": {
+    "$oid": "6384f7b873298bd5f322dcf5"
+  },
+  "name": "Nguyễn Thị Thúy Thanh",
+  "sex": "Nữ",
+  "birthday": "2005-12-31",
+  "avatar": "student11.jpg",
+  "pphone": "0965918833",
+  "class_name": "11A3",
+  "id": "6384f7b873298bd5f322dcf5"
+}]
